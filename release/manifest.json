@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-08-28T12:40:11.415917Z",
+  "web": {
+    "version": "1.4.0",
+    "buildNumber": 2,
+    "url": "https://github.com/KULLANICI/REPO/releases/download/v2/web-1.4.0-2.zip",
+    "sha256": "5429032e658b950b73180983bc2f31d87397d8edea32caad91819a62b162087a",
+    "sizeBytes": 3009923,
+    "minAppBuild": 0,
+    "mandatory": false,
+    "releaseNotes": {
+      "tr": "Ilk OTA paketi"
+    }
+  }
+}
